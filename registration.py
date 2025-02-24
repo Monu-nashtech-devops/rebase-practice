@@ -12,3 +12,4 @@ def login():
 
 # Call the function to test login
 login()
+login()
